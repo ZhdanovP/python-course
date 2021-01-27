@@ -65,4 +65,7 @@ while i < 47:
    i += 1
 """
 
+for i in range(6,46):
+  if i % 2 == 0:
+    print(i, end = ",")
 
