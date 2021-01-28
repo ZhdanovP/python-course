@@ -1,0 +1,13 @@
+a = 3
+b = 'test'
+c = [1,2,3]
+d = 'None'
+e = None
+f = 0
+print(a or b)
+print(a and b)
+print(a and c)
+print(a and d)
+print(b or d)
+print(a and e)
+print(a and f)
